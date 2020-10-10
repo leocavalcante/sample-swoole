@@ -1,4 +1,4 @@
 **
 !composer.json
 !composer.lock
-!server.php
+!index.php
