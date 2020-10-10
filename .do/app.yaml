@@ -1,8 +1,8 @@
-name: sample-php
+name: sample-swoole
 services:
-- environment_slug: php
+- environment_slug: swoole
   github:
     branch: main
     deploy_on_push: true
-    repo: digitalocean/sample-php
-  name: sample-php
+    repo: leocavalcante/sample-swoole
+  name: sample-swoole
